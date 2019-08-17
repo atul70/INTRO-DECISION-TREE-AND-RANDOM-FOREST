@@ -1,0 +1,16 @@
+POSITION,LEVEL,SALARY
+Business Analyst,1,45000
+Junior Consultant,2,55000
+Senior Counsultant,3,70000
+manager,4,80000
+Country Manager,5,150000
+Region Manager,6,110000
+Partner,7,300000
+Senior Partner,8,400000
+C-Level,9,500000
+CEO,10,1000000
+Peon,11,20000
+Cleak,12,35000
+Senior Clerk,13,40000
+Developer,14,87000
+Data Scientist,15,240000
